@@ -72,6 +72,7 @@ heroku git:remote -a APP_NAME
 ```bash
 cd frontend
 npm run build
+cd ..
 ```
 5. Deploy
 ```bash
