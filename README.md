@@ -54,7 +54,7 @@ source env/bin/activate
 ```bash
 flask run
 ```
-3. Start npm server
+3. On Seperate Terminal, Start npm server
 ```bash
 cd frontend
 npm start
